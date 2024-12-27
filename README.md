@@ -1,19 +1,14 @@
-# Using-AI-Tools-to-Create-A-50-Second-Explanation-of-Blockchain-Technology
 Creating Short Videos with AI Tools like ChatGPT, VoiceMaker, and CapCut 50 Seconds to Decode Blockchain: All Thanks to AI! 😄
 
-[![Watch the video] https://youtu.be/KLdjGADSnNU
+This is a 50-second video explaining blockchain technology, created using various AI tools.
 
-## About the Project
-This project demonstrates how to use AI tools to create an engaging 50-second video explaining blockchain technology. The video simplifies complex concepts for a general audience while showcasing the power of AI in content creation.
+Tool Used:
+- ChatGPT: For generating the script and content outline.
+- VoiceMaker: For AI-generated voiceover.
+- CapCut: For video editing and adding visual effects.
+- Sora: For additional animations and visual effects.
 
-## Tools Used
-- **ChatGPT**: For generating the script and breaking down blockchain concepts.
-- **VoiceMaker**: For creating professional AI-generated voiceover.
-- **CapCut**: For video editing and visual effects.
-- **Sora**: For adding dynamic animations to enhance the viewer's experience.
+The goal of this project was to create a concise, informative, and visually engaging video on blockchain technology using AI tools.
 
-## Purpose
-This project aims to explore the intersection of AI and blockchain, highlighting how technology can make complex ideas accessible to everyone.
 
-## Feedback
-If you have any thoughts or suggestions on how to improve this video or the process, feel free to open an issue or reach out!
+此影片設定為不公開，擁有連結者可以觀看，但無法從搜尋中找到
