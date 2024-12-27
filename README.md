@@ -1,4 +1,6 @@
-Creating Short Videos with AI Tools like ChatGPT, VoiceMaker, and CapCut 50 Seconds to Decode Blockchain: All Thanks to AI! 😄
+Creating Short Videos with AI Tools like ChatGPT, Sora, VoiceMaker, and CapCut 
+
+50 Seconds to Decode Blockchain: All Thanks to AI! 😄
 
 This is a 50-second video explaining blockchain technology, created using various AI tools.
 
