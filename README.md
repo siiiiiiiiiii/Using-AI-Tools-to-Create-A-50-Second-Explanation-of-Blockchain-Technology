@@ -2,6 +2,9 @@ Creating Short Videos with AI Tools like ChatGPT, VoiceMaker, and CapCut 50 Seco
 
 This is a 50-second video explaining blockchain technology, created using various AI tools.
 
+Youtube:https://youtu.be/KLdjGADSnNU 
+(This video is set to "Unlisted," meaning anyone with the link can view it, but it cannot be found through search results.)
+
 Tool Used:
 - ChatGPT: For generating the script and content outline.
 - VoiceMaker: For AI-generated voiceover.
@@ -11,4 +14,4 @@ Tool Used:
 The goal of this project was to create a concise, informative, and visually engaging video on blockchain technology using AI tools.
 
 
-此影片設定為不公開，擁有連結者可以觀看，但無法從搜尋中找到
+
