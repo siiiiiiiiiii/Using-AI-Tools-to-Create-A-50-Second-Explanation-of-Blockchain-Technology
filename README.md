@@ -13,8 +13,6 @@ Tool Used:
 - VoiceMaker: For AI-generated voiceover.
 - CapCut: For video editing and adding visual effects.
 
-
 The goal of this project was to create a concise, informative, and visually engaging video on blockchain technology using AI tools.
 
-
-
+![](screenshot_1.pgn)
