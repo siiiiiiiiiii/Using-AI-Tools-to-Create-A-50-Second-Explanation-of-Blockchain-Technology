@@ -15,4 +15,4 @@ Tool Used:
 
 The goal of this project was to create a concise, informative, and visually engaging video on blockchain technology using AI tools.
 
-![](screenshot_1.pgn)
+![](screenshot.pgn)
